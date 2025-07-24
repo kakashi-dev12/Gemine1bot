@@ -3,7 +3,7 @@ import requests
 import json
 
 # 🔑 Replace with your real keys
-BOT_TOKEN = "7813983435:AAFzD6Eci1MDcdgbtKUf25hXH9Ic-VoNJUo"
+BOT_TOKEN = "7421966834:AAH61WEEB9iepeYeI7jN40JR58kHqJAdAK4"
 GEMINI_API_KEY = "AIzaSyAUrOC5jNTOxjU0a1OUE1lWP4_TanxTi-A"
 
 bot = telebot.TeleBot(BOT_TOKEN)
