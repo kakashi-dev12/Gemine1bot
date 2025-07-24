@@ -71,4 +71,5 @@ def chat(message):
     bot.reply_to(message, response)
 
 # 🔄 Start polling
+bot.remove_webhook()
 bot.polling()
